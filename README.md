@@ -48,7 +48,7 @@ Headed the IET On-Campus Student Chapter. Responsibilities included deciding, ho
 ## Certifications
 #### Java SE 8 Oracle Certified Associate (OCA)
 
-<img src="./images/O_Java-SE-8-OCA-clr.gif" style="height: 70px; float: left;" />
+<img src="./images/O_Java-SE-8-OCA-clr.gif" style="height: 90px; align: left;" />
 
 ## Projects and Demonstrated Skills
 
@@ -59,5 +59,5 @@ Headed the IET On-Campus Student Chapter. Responsibilities included deciding, ho
 3. Different Parameters for Computational Depression Analysis: A Review, 2018
 4. An Advanced Design for Depression Analysis through EEG Signal, 2017
 
-You can also check out my *Google Scholar* page: <a href="https://scholar.google.com/citations?user=URSDQ7wAAAAJ&hl=en"><img src="./images/scholar.png" style="height: 20px;" /></a>
+You can also check out my *Google Scholar* page: <a href="https://scholar.google.com/citations?user=URSDQ7wAAAAJ&hl=en"><img src="./images/scholar.png" style="height: 30px; justify: center" /></a>
 
