@@ -2,7 +2,8 @@
 
 ## Education
 
-#### <a href="https://www.tudelft.nl/">Delft University of Technology (TU Delft)</a>   <img src="./images/Delft_University_of_Technology_logo.svg" style="height: 35px; align: left;"/>
+#### <a href="https://www.tudelft.nl/">Delft University of Technology (TU Delft)</a>   
+<img src="./images/Delft_University_of_Technology_logo.svg" style="height: 35px; align: left;"/>
 
 *Masters in Computer Science, with Mastertrack in Data Science and Technology*  
 *August 2019 - Present*  
@@ -26,7 +27,8 @@ Supporting TROMPA which is supported by the European Union's Horizon  2020 resea
 *Aug 2020 – Jan 2021*   
 Student Mentor for incoming Masters students during COVID19 circumstances at Technische Universiteit Delft 
 
-#### Student Intern, <a href="https://www.persistent.com/">Persistent Systems</a><img src="./images/persistent-systems-logo-hd-png-download.png" style="height: 35px; align:left;" />
+#### Student Intern, <a href="https://www.persistent.com/">Persistent Systems</a>
+<img src="./images/persistent-systems-logo-hd-png-download.png" style="height: 35px; align:left;" />
 
 *Sep 2017 - Jun 2018*   
 Pune, India  
@@ -46,8 +48,10 @@ Headed the IET On-Campus Student Chapter. Responsibilities included deciding, ho
 ## Certifications
 #### Java SE 8 Oracle Certified Associate (OCA)
 
-<img src="./images/O_Java-SE-8-OCA-clr.gif" style="height: 90px; float: left;" />  
-
+<img src="./images/O_Java-SE-8-OCA-clr.gif" style="height: 90px; align: left; justify: left;" />      
+  
+    
+   
 ## Projects and Demonstrated Skills  
 
 ## Publications
