@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Personal Statement
->  I have had the privilage to work on some of the interesting challenges that can be presented to an Engineer from a vast array of application domains. I have used my skills in **Machine Learning, Evolutionary Algorithms, Data Analysis, Signal Processing, High Performance Computing, Embedded Programming, and Effective Visualization** to find solutions for problems in extremely disparate domains; which include *Big Data, Crowdsensing, Medical Information Processing, Music Information Retrieval, Simulation-based Learning,* and many more. Naturally, in the process I have worked with some of the most brilliant and curious students, academics, and business personnel.
+>  I have had the privilege to work on some of the interesting challenges that can be presented to an Engineer from a vast array of application domains. I have used my skills in **Machine Learning, Evolutionary Algorithms, Data Analysis, Signal Processing, High-Performance Computing, Embedded Programming, and Effective Visualization** to find solutions for problems in extremely disparate domains; which include *Big Data, Crowdsensing, Medical Information Processing, Music Information Retrieval, Simulation-based Learning,* and many more. Naturally, in the process, I have worked with some of the most brilliant and curious students, academics, and business personnel.
 >
 >  <cite class="author">Sharwin Bobde</cite>
 >  <cite class="date">27 December, 2020</cite>
@@ -76,19 +76,19 @@ You can also check out my *Google Scholar* page:
 #### Intent-based Music Recommendation using Evolutionary Algorithms (Masters' Thesis)
 
 *Nov 2020 - Present*  
-Using Evolutionary Algorithms to solve the multiobjective optimization problem of recommender systems. Here, specifically a lige scale music listening histories dataset. *Currently in progress*.
+Using Evolutionary Algorithms to solve the multiobjective optimization problem of recommender systems. Here, specifically a large scale music listening histories dataset. *Currently in progress*.
 
 #### Music genre classification analysis
 *June 2020*  
-Project for CS4065 at TU Delft. Analysied the probjems with the task of music genre classification and large scale datasets in terms of their annotation and collection issues. Used a Convolutional Neural Network to uderstand the effect of data sampling techniques on classification strength.
+Project for CS4065 at TU Delft. Analysed the problems with the task of music genre classification and large scale datasets in terms of their annotation and collection issues. Used a Convolutional Neural Network to understand the effect of data sampling techniques on classification strength.
 
-#### One Shot learning using Siamese Networks
+#### One-Shot learning using Siamese Networks
 *Mar 2020*  
 Project for CS4240 at TU Delft. Reproduced the [original project](https://github.com/tensorfreitas/Siamese-Networks-for-One-Shot-Learning) and improved the training process using cyclic learning rate.
 
 #### Stance Detection for News Articles
 *Mar 2020*  
-Project for IN4325 at TU Delft. Using Natural Language Processing (NLP) techniques to extract features from articles and  exploiting Machine Learning to classify articles as *for, against or observing*.
+Project for IN4325 at TU Delft. Using Natural Language Processing (NLP) techniques to extract features from articles and exploiting Machine Learning to classify articles as *for, against or observing*.
 
 #### Lung Volume Visualization for 4D Lung Data
 *Dec 2019*  
@@ -96,7 +96,7 @@ Visualization technique to represent lung air-volume movement in a breathing cyc
 
 #### Sentiment-based Music Recommendation using Machine Learning and Music Information Retrieval.
 *2018-2019 (Bachelor’s Project)*  
-A recommendation system that dynamically senses user’s sentiment based on activity and recommends music. Music Information Retrieval is used to extract quantitative features from the music database. User’s activity is mapped to the type of music they like to listen to; this includes the estimated depression status (HAMD)
+A recommendation system that dynamically senses the user’s sentiment based on activity and recommends music. Music Information Retrieval is used to extract quantitative features from the music database. User’s activity is mapped to the type of music they like to listen to; this includes the estimated depression status (HAMD)
 
 #### Persistent Systems: Drone Project
 *Sep 2017 - Jun 2018*  
@@ -104,7 +104,7 @@ A project aimed to create an autonomous drone. Used Unity Game Engine to create 
 
 #### Novel Hand Gesture Recognition System using a Sensor Integrated Hand Glove
 *Nov 2017 - June 2019*  
-A rubber glove with PVDF sensors used for recognizing motion (patent pending). PCB designed in Proteus, assembled with Microcontroller, Wi-Fi module, Analog MUX, voltage regulators, FFC connectors. A wirelessly connected computer runs an app with interface for classifiers in R. Filed patent 201821020983 A.
+A rubber glove with PVDF sensors used for recognizing motion (patent pending). PCB designed in Proteus, assembled with Microcontroller, Wi-Fi module, Analog MUX, voltage regulators, FFC connectors. A wirelessly connected computer runs an app with an interface for classifiers in R. Filed patent 201821020983 A.
 
 #### Depression Detection and Scaling System
 *Aug 2017 - Dec 2017*  
@@ -114,6 +114,6 @@ An R code which accepts a person’s EEG data and performs Signal Processing and
 
 ## Contact
 One can always reach me by mail.  
-For any research related queries please send a mail to [s.p.bobde@student.tudelft.nl](mailto:s.p.bobde@student.tudelft.nl).  
+For any research-related queries please send a mail to [s.p.bobde@student.tudelft.nl](mailto:s.p.bobde@student.tudelft.nl).  
 For any other queries please send a mail to [bsharwin@gmail.com](mailto:bsharwin@gmail.com).   
 
