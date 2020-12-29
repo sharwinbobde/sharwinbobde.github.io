@@ -8,7 +8,7 @@
 
 ## Education
 
-### <a href="https://www.tudelft.nl/">Delft University of Technology (TU Delft)</a>   
+#### <a href="https://www.tudelft.nl/">Delft University of Technology (TU Delft)</a>   
 <img src="./images/Delft_University_of_Technology_logo.svg" style="height: 35px; align: left;"/>
 
 *Masters in Computer Science, with Mastertrack in Data Science and Technology*  
@@ -16,10 +16,10 @@
 CGPA: 8.08 (*most recent*)  
 Delft, The Netherlands  
 
-### <a href="http://mitcoe.ac.in/">MIT College of Engineering</a>
+#### <a href="http://mitcoe.ac.in/">MIT College of Engineering</a>
 
-*Bachelors in Engineering - Information Technology *  
-*July 2015 - July 2019 *  
+*Bachelors in Engineering - Information Technology*  
+*July 2015 - July 2019*  
 CGPA: 8.33  
 Pune, India   
 
@@ -55,8 +55,6 @@ Headed the IET On-Campus Student Chapter. Responsibilities included deciding, ho
 ### Java SE 8 Oracle Certified Associate (OCA)
 
 <img src="./images/O_Java-SE-8-OCA-clr.gif" style="height: 90px; align: left; justify: left;" />      
-
-​    
 
 ## Publications
 1.  Courier: Real-Time Optimal Batch Size Prediction for Latency SLOs in BigDL
